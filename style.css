@@ -1,0 +1,45 @@
+.heading {
+    width:100%;
+    text-align:left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid gainsboro;
+}
+
+.big_image {
+    width:100%;
+}
+
+#start {
+    font-size: 22px;
+}
+
+.headingtwo button {
+    display: inline;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#status {
+    font-size: 22px;
+}
+
+.footer {
+    line-height:3;
+    text-align:center;
+    width:100%;
+    background-color:white;
+    bottom:0;
+    position:absolute;
+    margin-top:70px;
+}
+
+.instructions_img {
+    display:inline;
+    width:45%;
+}
